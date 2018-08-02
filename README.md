@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-npm install --save objectWithin
+npm install --save objectwithin
 ```
 
 ## Usage
