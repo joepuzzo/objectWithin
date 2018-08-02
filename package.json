@@ -6,6 +6,9 @@
   "scripts": {
     "test": "mocha"
   },
+  "files": [
+    "index.js"
+  ],
   "keywords": [
     "deep-compare",
     "object-compare",
