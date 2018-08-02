@@ -1,0 +1,21 @@
+{
+  "name": "objectwithin",
+  "version": "1.0.0",
+  "description": "Determines if a smaller objec is fully contained within a larger one",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "deep-compare",
+    "object-compare",
+    "compare",
+    "objects"
+  ],
+  "author": "joepuzzo",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
